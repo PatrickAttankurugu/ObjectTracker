@@ -37,11 +37,3 @@ Here's how you can use the code in this project:
 ## Model
 
 This project utilizes the popular YOLOv8 object detection model, which is pretrained on the COCO dataset and achieves high accuracy and speed by dividing the input image into a grid. Additionally, ByteTracker is used for vehicle tracking, a simple and efficient online multi-object tracking algorithm that combines detection and tracking in a unified framework. No custom training was done in this project.
-
-## License
-
-MIT
-
-## Author
-
-[Umar Saeed](https://www.linkedin.com/in/umar-saeed-16863a21b/)
